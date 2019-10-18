@@ -1,6 +1,6 @@
 import React from 'react';
 import {observer} from 'mobx-react-lite'
-import TwitterLogin from 'react-twitter-login/lib/react-twitter-auth-component.js';
+import TwitterLogin from 'react-twitter-authentication/lib/react-twitter-login-component.js';
 
 const Login = observer(() => {
     
