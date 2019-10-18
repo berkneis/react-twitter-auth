@@ -3,4 +3,4 @@ node_modules/**
 .idea/**
 package-lock.json
 coverage/**
-example/backend/node_modules/**
+.editorconfig
