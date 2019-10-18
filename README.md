@@ -1,9 +1,9 @@
-[![NPM](https://nodei.co/npm/react-twitter-login.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-twitter-login/)
+[![NPM](https://nodei.co/npm/react-twitter-authentication.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-twitter-authentication/)
 
-[![npm](https://img.shields.io/npm/dt/react-twitter-auloginth.svg)](https://img.shields.io/npm/dt/react-twitter-login.svg)
+[![npm](https://img.shields.io/npm/dt/react-twitter-authentication.svg)](https://img.shields.io/npm/dt/react-twitter-authentication.svg)
 [![Build Status](https://travis-ci.org/berkneis/react-twitter-login.svg?branch=master)](https://travis-ci.org/berkneis/react-twitter-login)
 [![Coverage Status](https://coveralls.io/repos/github/berkneis/react-twitter-login/badge.svg?branch=master)](https://coveralls.io/github/berkneis/react-twitter-login?branch=master)
-[![npm version](https://badge.fury.io/js/react-twitter-login.svg)](https://badge.fury.io/js/react-twitter-login)
+[![npm version](https://badge.fury.io/js/react-twitter-authentication.svg)](https://badge.fury.io/js/react-twitter-authentication)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # React Twitter Login/Auth Component
@@ -12,10 +12,10 @@
 
 ## Installation
 
-`npm install react-twitter-login`
+`npm install react-twitter-authentication`
 > or
 >
-`yarn add react-twitter-login`
+`yarn add react-twitter-authentication`
 
 ## Usage
 
@@ -62,7 +62,7 @@ After the authentication process you do in the backend, json data callback into 
 
 # Examples
 
-Sample code can be found in [example](https://github.com/berkneis/react-twitter-auth/tree/master/example) folder.
+Sample code can be found in [example](https://github.com/berkneis/react-twitter-login/tree/master/example) folder.
 
 
 # Info
